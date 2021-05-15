@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Bienvenue sur Amika Docs
 
-You can use the [editor on GitHub](https://github.com/AMIKAFR/AMIKA-bots.py/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nous sommes présents pour vous apporter des solutions __gratuites__ pour pouvoir booster votre communauté. Nous sommes principalement actifs pour Discord (robots Discord)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Construire un robot Discord avec Python
+Pour commencer, il va vous falloir les "applicatifs" suivants :
+- Python (3.8 ou +)
+- La librairie [Discord.py](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwii8pep9cvwAhVS8uAKHXPaDn8QFjAAegQIBRAD&url=https%3A%2F%2Fpypi.org%2Fproject%2Fdiscord.py%2F&usg=AOvVaw0sFQbUdvquBIXAxl7Tfz7R)
+- L'invite de commandes (cmd) sous Windows, ou le terminal sous Linux & Ubuntu ainsi que macOS (debian, etc...)
+- Un éditeur de texte (non obligatoire mais **fortement recommandé**) tel que [Sublime Text 3](https://www.sublimetext.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AMIKAFR/AMIKA-bots.py/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Information
+Cette page est actuellement en maintenance. Merci de revenir plus tard.
