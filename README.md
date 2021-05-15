@@ -1,3 +1,7 @@
+## Informations utilisateur :
+Cette page est actuellement en maintenance. Veuillez nous excuser pour la gêne occasionnée.
+This page is undergoing maintenance. Please excuse us.
+
 ## Bienvenue sur Amika Docs
 
 Nous sommes présents pour vous apporter des solutions __gratuites__ pour pouvoir booster votre communauté. Nous sommes principalement actifs pour Discord (robots Discord)
